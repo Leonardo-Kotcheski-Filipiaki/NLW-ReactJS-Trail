@@ -1,6 +1,6 @@
 export function NewNoteCard() {
     return(
-    <button className="rounded-md bg-slate-700 p-5 space-y-3 ">
+    <button className="rounded-md bg-slate-700 p-5 space-y-3 text-left">
         <span className="text-sm font-medium text-slate-500">
             Adicionar nota
         </span>
